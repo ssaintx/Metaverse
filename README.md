@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://github.com/ssaintx/Metaverse/assets/149256879/5f550c9c-d41e-4ee5-b943-3debc3d609db" alt="cover" />
+  
+  <br />
+
+  <h1 align="center">Metaverse</h1>
+</div>
+
+<br />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -8,6 +18,9 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+&&
+cd Metaverse
+npm install
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
